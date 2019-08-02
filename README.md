@@ -127,29 +127,3 @@ This describes the app directory structure & conventions.
 ├── README.md                   # project documentation guide.
 └── ...                         # etc
 ```
-
-## Contributing
-
-- Star our [GitHub Repository](https://github.com/narainsagar/node-casperjs-aws-lambda) ⭐
-- Fork our [GitHub Repository](https://github.com/narainsagar/node-casperjs-aws-lambda) 👈
-- Create [pull requests](https://github.com/narainsagar/node-casperjs-aws-lambda/pulls), [submit bugs](https://github.com/narainsagar/node-casperjs-aws-lambda/issues), suggest new features or documentation updates 🔧
-
-## About Me
-
-> My name is **Narain Sagar**, I’m a FullStack JavaScript Developer, lives in  Karachi, Pakistan and pretty much enjoying my life.
-
-![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
-
-### Follow Me 👍
-
-[Medium](http://blog.narainsagar.com/) | 
-[Website](http://narainsagar.com/) | 
-[Twitter](https://twitter.com/narainsagar) | 
-[LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
-[Facebook](https://facebook.com/NarainSagarPage) | 
-[Github](https://github.com/narainsagar) | 
-[Stack Overflow](https://www.stackoverflow.com/users/5228251/narainsagar)
-
-## License
-
-MIT
